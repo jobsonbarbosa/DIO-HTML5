@@ -5,3 +5,12 @@ Todo Elemento HTML de um tag de abertura e uma tag de fechamento represenado por
 
 Inicia-se o documento HTML com o <!DOCTYPE html> que informa ao navegado que o documento é HTML
 
+Semâtica
+Em 2014 foi criando novos elementos no HTML5 que agregou um sentindo na escrito dos codigo em HTML.
+ 
+<section> Representa uma sessao generica de conteudo
+<header> Representa o cabeçalho da página
+<article> Representa um conteudo relevante
+<aside> Representa um conteudo relacionado ao conteudo principal da página.
+<footer> Representa o rodapé da página
+<h1><h6> Representa a importancia de um titulo dentro da página
