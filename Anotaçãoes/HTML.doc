@@ -1,0 +1,7 @@
+HTML foi criado por TIM Berners-Lee com o obejtio de compartilha documentos entre amigos.
+Até o momento houve 5 versões do HTML e estamos na versão 5 HTML5
+Tudo dentro de um documento HTML é um elemento.
+Todo Elemento HTML de um tag de abertura e uma tag de fechamento represenado por <> e </>.
+
+Inicia-se o documento HTML com o <!DOCTYPE html> que informa ao navegado que o documento é HTML
+
