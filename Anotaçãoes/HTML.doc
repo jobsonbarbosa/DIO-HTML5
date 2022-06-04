@@ -24,3 +24,11 @@ Textos e Links
 
 <a href="linkdapagina.com>Link</a> podemos criar links de e-mail, telefone, links para outra pagina e etc.
 <a target="_blank">Link</a> abre o link e uma nova aba
+
+
+Imagens
+A tag <img> não tem tag de fechamento
+O img possuio dois atributidos src e o alt. o src é obrigatorio o alt não é obrigatorio.
+no src coloca-se o caminho (diretorio) onde esta a imagem.
+alt mostra a descrição da foto e é usado para a acessibilidade.
+<img src="img/img.png" alt="foto">
