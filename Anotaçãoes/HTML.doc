@@ -14,3 +14,13 @@ Em 2014 foi criando novos elementos no HTML5 que agregou um sentindo na escrito 
 <aside> Representa um conteudo relacionado ao conteudo principal da página.
 <footer> Representa o rodapé da página
 <h1><h6> Representa a importancia de um titulo dentro da página
+
+
+Textos e Links
+<h1>Titulo da pagina</h1>
+<h2>Titulo da sessão</h2>
+<h3>Titulo do artigo</h3>
+<p>Paragrado do artigo</p>
+
+<a href="linkdapagina.com>Link</a> podemos criar links de e-mail, telefone, links para outra pagina e etc.
+<a target="_blank">Link</a> abre o link e uma nova aba
