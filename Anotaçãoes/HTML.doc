@@ -32,3 +32,9 @@ O img possuio dois atributidos src e o alt. o src é obrigatorio o alt não é o
 no src coloca-se o caminho (diretorio) onde esta a imagem.
 alt mostra a descrição da foto e é usado para a acessibilidade.
 <img src="img/img.png" alt="foto">
+
+Lista
+<ul> Lista não ordenada, onde a ordem não e importatne
+<ol> Lisa ordernada, a ordem a lista é importando, representanda por numeros, letras ou algoiritimo romano.
+
+<li> É um item da lista
