@@ -1,0 +1,9 @@
+O CSS foi criado em 1996.
+
+Uma regra de CSS é formado por um grupo de seletores.
+Seletores são um elemento HTML
+
+No css uma classe é representado por um . uma um ID por um #
+Um ID só pode ser usado uma vez em uma pagina
+
+O box-model tem 4 areas: margin, border, padding, content
