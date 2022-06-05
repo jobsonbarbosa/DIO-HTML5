@@ -1,8 +1,18 @@
 body{
     background: rgb(214, 213, 213);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #title, .subTitle, .post_title{
-    color: black
+    color: black;
+}
+
+#title{
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: line-through;
+    color:darkgray;
 }
 
 .post_title{
@@ -23,6 +33,7 @@ body{
 .post_content {
     margin: 0;
     margin-bottom: 15px;
+    text-transform: capitalize;
 }
 
 .post_img {
