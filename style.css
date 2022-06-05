@@ -1,6 +1,8 @@
 body{
     background: rgb(214, 213, 213);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 900px;
+    margin: auto;
 }
 #title, .subTitle, .post_title{
     color: black;
@@ -34,10 +36,12 @@ a{
     margin: 0;
     margin-bottom: 15px;
     text-transform: capitalize;
+    text-align: justify;
 }
 
 .post_img {
     margin-bottom: 15px;
+    width: 100%;
 }
 
 .foto{
